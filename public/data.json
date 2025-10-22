@@ -1,0 +1,78 @@
+{
+  "about": {
+    "title": "DevSource🔥 - Empowering Future Developers",
+    "description": "DevSource is a development club under ACM USICT, GGSIPU, dedicated to fostering a community of passionate tech enthusiasts.We focus on Web Development, App Development, and Game Development, while also encouraging Open Source contributions.At DevSource, we aim to create a collaborative environment where students can learn, build, and grow together through real-world projects. Our mission is to empower students to explore emerging technologies, develop impactful solutions, and become industry-ready innovators."
+  },
+  "webDev": [
+    {
+      "name": "Adarsh Tiwari",
+      "tasks": [
+        "Week 1: Interactive Portfolio Builder, Goal: Let users fill in a form and auto-generate a portfolio web page. Features:Form fields: name, bio, skills, projects, links; On submit → dynamically generate a styled portfolio using JS DOM Download as .html file (optional using Blob API) Responsive layout with clean CSS"
+      ]
+    },
+    {
+      "name": "Khushi Bhaskar",
+      "tasks": [
+        "Week 1: Color Palette Generator, Goal: Generate aesthetic color combinations.Features:Random color generation using JS, Copy hex code on click,Lock favorite colors, Optional: Fetch trending palettes from color API like Coolors"
+      ]
+    },
+    {
+      "name": "Krrish Khowal",
+      "tasks": [
+        "Week 1: Flashcard Learning App, Goal: A mini study tool to create and flip flashcards. Features: Add question & answer pairs, Flip animation on hover or click, Save cards to localStorage,Next/previous navigation"
+      ]
+    }
+  ],
+  "appDev": [
+    {
+      "name": "ABC",
+      "tasks": [
+        "Develop a cross-platform Todo App using React Native",
+        "Set up Firebase for authentication and data storage",
+        "Implement push notifications"
+      ]
+    },
+    {
+      "name": "ABC",
+      "tasks": [
+        "Design modern login and registration screens",
+        "Add smooth navigation using React Navigation",
+        "Integrate camera and gallery features in apps"
+      ]
+    },
+    {
+      "name": "ABC",
+      "tasks": [
+        "Build a weather app with live API data",
+        "Implement offline storage with AsyncStorage",
+        "Focus on accessibility improvements"
+      ]
+    }
+  ],
+  "gameDev": [
+    {
+      "name": "ABC",
+      "tasks": [
+        "Create a 2D platformer game with Unity",
+        "Learn and apply game physics for realistic movement",
+        "Implement level progression and score systems"
+      ]
+    },
+    {
+      "name": "ABC",
+      "tasks": [
+        "Develop advanced player controls",
+        "Integrate sound effects and background music",
+        "Design UI for menus and HUD elements"
+      ]
+    },
+    {
+      "name": "ABC",
+      "tasks": [
+        "Experiment with 3D environments in Unity",
+        "Optimize game performance for different devices",
+        "Collaborate on multiplayer game mechanics"
+      ]
+    }
+  ]
+}
