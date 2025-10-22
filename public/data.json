@@ -5,73 +5,319 @@
   },
   "webDev": [
     {
-      "name": "Adarsh Tiwari",
+      "name": "Annuraj",
       "tasks": [
-        "Week 1: Interactive Portfolio Builder, Goal: Let users fill in a form and auto-generate a portfolio web page. Features:Form fields: name, bio, skills, projects, links; On submit → dynamically generate a styled portfolio using JS DOM Download as .html file (optional using Blob API) Responsive layout with clean CSS"
+        ""
       ]
     },
     {
-      "name": "Khushi Bhaskar",
+      "name": "Nikhil Goyal",
       "tasks": [
-        "Week 1: Color Palette Generator, Goal: Generate aesthetic color combinations.Features:Random color generation using JS, Copy hex code on click,Lock favorite colors, Optional: Fetch trending palettes from color API like Coolors"
+        ""
       ]
     },
     {
-      "name": "Krrish Khowal",
+      "name": "Aman Kumar",
       "tasks": [
-        "Week 1: Flashcard Learning App, Goal: A mini study tool to create and flip flashcards. Features: Add question & answer pairs, Flip animation on hover or click, Save cards to localStorage,Next/previous navigation"
+        ""
+      ]
+    },
+    {
+      "name": "Atharv Handa ",
+      "tasks": [
+        ""
+      ]
+    },
+    {
+      "name": "Vansh Panchal",
+      "tasks": [
+        ""
+      ]
+    },
+    {
+      "name": "Hriday Aneja",
+      "tasks": [
+        ""
+      ]
+    },
+    {
+      "name": "Arnesh Kumar Gupta",
+      "tasks": [
+        ""
+      ]
+    },
+    {
+      "name": "Mansih Kumar Pankaj",
+      "tasks": [
+        ""
+      ]
+    },
+    {
+      "name": "Brajesh Upadhyay",
+      "tasks": [
+        ""
+      ]
+    },
+    {
+      "name": "Sachin Gupta",
+      "tasks": [
+        ""
+      ]
+    },
+    {
+      "name": "Aditya Raj",
+      "tasks": [
+        ""
+      ]
+    },
+    {
+      "name": "Krishna Kumar",
+      "tasks": [
+        ""
+      ]
+    },
+    {
+      "name": "Shivansh Tiwari ",
+      "tasks": [
+        ""
+      ]
+    },
+    {
+      "name": "Sahil Garg",
+      "tasks": [
+        ""
+      ]
+    },
+    {
+      "name": "Harshit Kundra",
+      "tasks": [
+        ""
+      ]
+    },
+    {
+      "name": "Vansh Garg ",
+      "tasks": [
+        ""
+      ]
+    },
+    {
+      "name": "Jiya Agrawal",
+      "tasks": [
+        ""
+      ]
+    },
+    {
+      "name": "Aarush Sharma",
+      "tasks": [
+        ""
+      ]
+    },
+    {
+      "name": "Neeraj Rijhwani ",
+      "tasks": [
+        ""
+      ]
+    },
+    {
+      "name": "Dhananjay",
+      "tasks": [
+        ""
+      ]
+    },
+    {
+      "name": "Vaibhav Kumar",
+      "tasks": [
+        ""
+      ]
+    },
+    {
+      "name": "Kanishka gupta ",
+      "tasks": [
+        ""
+      ]
+    },
+    {
+      "name": "Krish Sharma",
+      "tasks": [
+        ""
+      ]
+    },
+    {
+      "name": "SAKSHAM GUPTA",
+      "tasks": [
+        ""
+      ]
+    },
+    {
+      "name": "Taksh Dhankar ",
+      "tasks": [
+        ""
+      ]
+    },
+    {
+      "name": "Anuj Kumar",
+      "tasks": [
+        ""
+      ]
+    },
+    {
+      "name": "Nandini Bansal",
+      "tasks": [
+        ""
+      ]
+    },
+    {
+      "name": "Shivam Dwivedi",
+      "tasks": [
+        ""
+      ]
+    },
+    {
+      "name": "Harshit Dhama",
+      "tasks": [
+        ""
+      ]
+    },
+    {
+      "name": "Sahil",
+      "tasks": [
+        ""
+      ]
+    },
+    {
+      "name": "Kartik",
+      "tasks": [
+        ""
+      ]
+    },
+    {
+      "name": "Raghav Gulati",
+      "tasks": [
+        ""
+      ]
+    },
+    {
+      "name": "Himanshu singh",
+      "tasks": [
+        ""
+      ]
+    },
+    {
+      "name": "Kavya Agarwal",
+      "tasks": [
+        ""
+      ]
+    },
+    {
+      "name": "Bhavya Sharma",
+      "tasks": [
+        ""
+      ]
+    },
+    {
+      "name": "Chhavi Mittal",
+      "tasks": [
+        ""
+      ]
+    },
+    {
+      "name": "Krishna Pratik",
+      "tasks": [
+        ""
+      ]
+    },
+    {
+      "name": "Keshav",
+      "tasks": [
+        ""
+      ]
+    },
+    {
+      "name": "Saksham Goel",
+      "tasks": [
+        ""
+      ]
+    },
+    {
+      "name": "Shruti",
+      "tasks": [
+        ""
+      ]
+    },
+    {
+      "name": "Akash Das ",
+      "tasks": [
+        ""
+      ]
+    },
+    {
+      "name": "Satyam Kumar Chaudhary",
+      "tasks": [
+        ""
+      ]
+    },
+    {
+      "name": "Anany Pratyush",
+      "tasks": [
+        ""
       ]
     }
   ],
   "appDev": [
     {
-      "name": "ABC",
+      "name": "Rishank semalti",
       "tasks": [
-        "Develop a cross-platform Todo App using React Native",
-        "Set up Firebase for authentication and data storage",
-        "Implement push notifications"
+        ""
       ]
     },
     {
-      "name": "ABC",
+      "name": "Kunal chandoliya",
       "tasks": [
-        "Design modern login and registration screens",
-        "Add smooth navigation using React Navigation",
-        "Integrate camera and gallery features in apps"
+        ""
       ]
     },
     {
-      "name": "ABC",
+      "name": "Nancy Gupta",
       "tasks": [
-        "Build a weather app with live API data",
-        "Implement offline storage with AsyncStorage",
-        "Focus on accessibility improvements"
+        ""
+      ]
+    },
+    {
+      "name": "Shivam",
+      "tasks": [
+        ""
+      ]
+    },
+    {
+      "name": "Manasvi Aggarwal",
+      "tasks": [
+        ""
       ]
     }
   ],
   "gameDev": [
     {
-      "name": "ABC",
+      "name": "Mohd Sami",
       "tasks": [
-        "Create a 2D platformer game with Unity",
-        "Learn and apply game physics for realistic movement",
-        "Implement level progression and score systems"
+        ""
       ]
     },
     {
-      "name": "ABC",
+      "name": "Anirban Mishra ",
       "tasks": [
-        "Develop advanced player controls",
-        "Integrate sound effects and background music",
-        "Design UI for menus and HUD elements"
+        ""
       ]
     },
     {
-      "name": "ABC",
+      "name": "Piyush Sehrawat",
       "tasks": [
-        "Experiment with 3D environments in Unity",
-        "Optimize game performance for different devices",
-        "Collaborate on multiplayer game mechanics"
+        ""
+      ]
+    },
+    {
+      "name": "Rishika Jain ",
+      "tasks": [
+        ""
       ]
     }
   ]
