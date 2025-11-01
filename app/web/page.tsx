@@ -50,7 +50,7 @@ export default function WebPage() {
 
         Project2: Weather Application 
         <br />
-        🎯 Objective:
+        Objective:
         <br />
         Build a responsive Weather App that allows users to view current weather conditions and forecasts for their location or any searched city. The app should fetch data from a reliable weather API and present it in a clean, user-friendly interface.
         <br />
