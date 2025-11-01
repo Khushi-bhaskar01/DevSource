@@ -22,7 +22,7 @@ export default function AppPage() {
         App Development
       </h1>
       <p className="text-muted-foreground mt-2">
-        Project: Weather App
+        Project1: Weather App
         <br />
         Objective:
         <br />
@@ -37,6 +37,25 @@ export default function AppPage() {
         Display key information: temperature, humidity, wind speed, weather condition (sunny, rainy, etc.).
         <br />
         Clean and responsive UI that works on both Android and iOS.
+      </p>
+      <p className="text-muted-foreground mt-2">
+        Project2: To-Do App
+        <br/>
+        Objective:
+        <br/>
+        Build a cross-platform mobile To-Do App using Kotlin, Flutter, or React Native that manages tasks efficiently with a clean and intuitive interface.
+        <br/>
+        Mandatory Features:
+        <br/>
+        Task Creation & Management Allow users to add, edit, delete, and mark tasks as completed.
+        <br/>
+        Persistent Storage Store tasks locally using SQLite or even a txt file will work fine.
+        <br/>
+        Responsive UI Design a clean, minimal, and responsive interface.
+        <br/>
+        Optional Enhancements:
+        <br/>
+        Use FireBase with User authentication.
       </p>
       <div className="mt-8">
         <DevList kind="appDev" />
